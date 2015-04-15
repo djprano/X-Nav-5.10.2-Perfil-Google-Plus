@@ -1,2 +1,3 @@
 # X-Nav-5.10.2-Perfil-Google-Plus
-Ejercicio 5.10.2 - Tu perfil vía la API de Google+
+Se puede ver el resultado en la url:
+http://djprano.github.io/X-Nav-5.10.2-Perfil-Google-Plus/googleplus-me.html
